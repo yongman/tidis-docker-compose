@@ -23,3 +23,5 @@ Creating docker_tidis_1 ... done
 ```
 ~ docker-compose down
 ```
+
+**This compose file is just use one pd and one tikv instance for test, not for production**
