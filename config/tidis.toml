@@ -1,6 +1,9 @@
+# sample configuration file for tidis
+
 desc = "sample configuration for tidis"
 
 [tidis]
+
 listen = ":5379"
 max_connection = 5000
 
